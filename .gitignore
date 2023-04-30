@@ -1,0 +1,4 @@
+*.png
+*.bmp
+ship_explained.txt
+__pycache__/
